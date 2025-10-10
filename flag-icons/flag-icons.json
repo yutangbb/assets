@@ -1,0 +1,1090 @@
+{
+	"name": "Flags icons",
+	"description": "图形来自项目 https://github.com/lipis/flag-icons/",
+  "icons": [
+    {
+      "name": "ad",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ad.png"
+    },
+    {
+      "name": "ae",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ae.png"
+    },
+    {
+      "name": "af",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/af.png"
+    },
+    {
+      "name": "ag",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ag.png"
+    },
+    {
+      "name": "ai",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ai.png"
+    },
+    {
+      "name": "al",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/al.png"
+    },
+    {
+      "name": "am",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/am.png"
+    },
+    {
+      "name": "ao",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ao.png"
+    },
+    {
+      "name": "aq",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/aq.png"
+    },
+    {
+      "name": "ar",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ar.png"
+    },
+    {
+      "name": "arab",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/arab.png"
+    },
+    {
+      "name": "as",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/as.png"
+    },
+    {
+      "name": "asean",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/asean.png"
+    },
+    {
+      "name": "at",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/at.png"
+    },
+    {
+      "name": "au",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/au.png"
+    },
+    {
+      "name": "aw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/aw.png"
+    },
+    {
+      "name": "ax",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ax.png"
+    },
+    {
+      "name": "az",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/az.png"
+    },
+    {
+      "name": "ba",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ba.png"
+    },
+    {
+      "name": "bb",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bb.png"
+    },
+    {
+      "name": "bd",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bd.png"
+    },
+    {
+      "name": "be",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/be.png"
+    },
+    {
+      "name": "bf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bf.png"
+    },
+    {
+      "name": "bg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bg.png"
+    },
+    {
+      "name": "bh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bh.png"
+    },
+    {
+      "name": "bi",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bi.png"
+    },
+    {
+      "name": "bj",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bj.png"
+    },
+    {
+      "name": "bl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bl.png"
+    },
+    {
+      "name": "bm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bm.png"
+    },
+    {
+      "name": "bn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bn.png"
+    },
+    {
+      "name": "bo",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bo.png"
+    },
+    {
+      "name": "bq",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bq.png"
+    },
+    {
+      "name": "br",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/br.png"
+    },
+    {
+      "name": "bs",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bs.png"
+    },
+    {
+      "name": "bt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bt.png"
+    },
+    {
+      "name": "bv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bv.png"
+    },
+    {
+      "name": "bw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bw.png"
+    },
+    {
+      "name": "by",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/by.png"
+    },
+    {
+      "name": "bz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/bz.png"
+    },
+    {
+      "name": "ca",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ca.png"
+    },
+    {
+      "name": "cc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cc.png"
+    },
+    {
+      "name": "cd",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cd.png"
+    },
+    {
+      "name": "cefta",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cefta.png"
+    },
+    {
+      "name": "cf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cf.png"
+    },
+    {
+      "name": "cg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cg.png"
+    },
+    {
+      "name": "ch",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ch.png"
+    },
+    {
+      "name": "ci",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ci.png"
+    },
+    {
+      "name": "ck",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ck.png"
+    },
+    {
+      "name": "cl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cl.png"
+    },
+    {
+      "name": "cm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cm.png"
+    },
+    {
+      "name": "cn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cn.png"
+    },
+    {
+      "name": "co",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/co.png"
+    },
+    {
+      "name": "cp",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cp.png"
+    },
+    {
+      "name": "cr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cr.png"
+    },
+    {
+      "name": "cu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cu.png"
+    },
+    {
+      "name": "cv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cv.png"
+    },
+    {
+      "name": "cw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cw.png"
+    },
+    {
+      "name": "cx",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cx.png"
+    },
+    {
+      "name": "cy",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cy.png"
+    },
+    {
+      "name": "cz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/cz.png"
+    },
+    {
+      "name": "de",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/de.png"
+    },
+    {
+      "name": "dg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/dg.png"
+    },
+    {
+      "name": "dj",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/dj.png"
+    },
+    {
+      "name": "dk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/dk.png"
+    },
+    {
+      "name": "dm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/dm.png"
+    },
+    {
+      "name": "do",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/do.png"
+    },
+    {
+      "name": "dz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/dz.png"
+    },
+    {
+      "name": "eac",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/eac.png"
+    },
+    {
+      "name": "ec",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ec.png"
+    },
+    {
+      "name": "ee",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ee.png"
+    },
+    {
+      "name": "eg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/eg.png"
+    },
+    {
+      "name": "eh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/eh.png"
+    },
+    {
+      "name": "er",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/er.png"
+    },
+    {
+      "name": "es-ct",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/es-ct.png"
+    },
+    {
+      "name": "es-ga",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/es-ga.png"
+    },
+    {
+      "name": "es-pv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/es-pv.png"
+    },
+    {
+      "name": "es",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/es.png"
+    },
+    {
+      "name": "et",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/et.png"
+    },
+    {
+      "name": "eu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/eu.png"
+    },
+    {
+      "name": "fi",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fi.png"
+    },
+    {
+      "name": "fj",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fj.png"
+    },
+    {
+      "name": "fk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fk.png"
+    },
+    {
+      "name": "fm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fm.png"
+    },
+    {
+      "name": "fo",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fo.png"
+    },
+    {
+      "name": "fr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/fr.png"
+    },
+    {
+      "name": "ga",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ga.png"
+    },
+    {
+      "name": "gb-eng",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gb-eng.png"
+    },
+    {
+      "name": "gb-nir",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gb-nir.png"
+    },
+    {
+      "name": "gb-sct",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gb-sct.png"
+    },
+    {
+      "name": "gb-wls",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gb-wls.png"
+    },
+    {
+      "name": "gb",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gb.png"
+    },
+    {
+      "name": "gd",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gd.png"
+    },
+    {
+      "name": "ge",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ge.png"
+    },
+    {
+      "name": "gf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gf.png"
+    },
+    {
+      "name": "gg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gg.png"
+    },
+    {
+      "name": "gh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gh.png"
+    },
+    {
+      "name": "gi",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gi.png"
+    },
+    {
+      "name": "gl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gl.png"
+    },
+    {
+      "name": "gm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gm.png"
+    },
+    {
+      "name": "gn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gn.png"
+    },
+    {
+      "name": "gp",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gp.png"
+    },
+    {
+      "name": "gq",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gq.png"
+    },
+    {
+      "name": "gr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gr.png"
+    },
+    {
+      "name": "gs",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gs.png"
+    },
+    {
+      "name": "gt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gt.png"
+    },
+    {
+      "name": "gu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gu.png"
+    },
+    {
+      "name": "gw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gw.png"
+    },
+    {
+      "name": "gy",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/gy.png"
+    },
+    {
+      "name": "hk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/hk.png"
+    },
+    {
+      "name": "hm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/hm.png"
+    },
+    {
+      "name": "hn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/hn.png"
+    },
+    {
+      "name": "hr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/hr.png"
+    },
+    {
+      "name": "ht",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ht.png"
+    },
+    {
+      "name": "hu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/hu.png"
+    },
+    {
+      "name": "ic",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ic.png"
+    },
+    {
+      "name": "id",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/id.png"
+    },
+    {
+      "name": "ie",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ie.png"
+    },
+    {
+      "name": "il",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/il.png"
+    },
+    {
+      "name": "im",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/im.png"
+    },
+    {
+      "name": "in",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/in.png"
+    },
+    {
+      "name": "io",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/io.png"
+    },
+    {
+      "name": "iq",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/iq.png"
+    },
+    {
+      "name": "ir",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ir.png"
+    },
+    {
+      "name": "is",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/is.png"
+    },
+    {
+      "name": "it",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/it.png"
+    },
+    {
+      "name": "je",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/je.png"
+    },
+    {
+      "name": "jm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/jm.png"
+    },
+    {
+      "name": "jo",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/jo.png"
+    },
+    {
+      "name": "jp",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/jp.png"
+    },
+    {
+      "name": "ke",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ke.png"
+    },
+    {
+      "name": "kg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kg.png"
+    },
+    {
+      "name": "kh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kh.png"
+    },
+    {
+      "name": "ki",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ki.png"
+    },
+    {
+      "name": "km",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/km.png"
+    },
+    {
+      "name": "kn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kn.png"
+    },
+    {
+      "name": "kp",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kp.png"
+    },
+    {
+      "name": "kr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kr.png"
+    },
+    {
+      "name": "kw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kw.png"
+    },
+    {
+      "name": "ky",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ky.png"
+    },
+    {
+      "name": "kz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/kz.png"
+    },
+    {
+      "name": "la",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/la.png"
+    },
+    {
+      "name": "lb",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lb.png"
+    },
+    {
+      "name": "lc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lc.png"
+    },
+    {
+      "name": "li",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/li.png"
+    },
+    {
+      "name": "lk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lk.png"
+    },
+    {
+      "name": "lr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lr.png"
+    },
+    {
+      "name": "ls",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ls.png"
+    },
+    {
+      "name": "lt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lt.png"
+    },
+    {
+      "name": "lu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lu.png"
+    },
+    {
+      "name": "lv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/lv.png"
+    },
+    {
+      "name": "ly",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ly.png"
+    },
+    {
+      "name": "ma",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ma.png"
+    },
+    {
+      "name": "mc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mc.png"
+    },
+    {
+      "name": "md",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/md.png"
+    },
+    {
+      "name": "me",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/me.png"
+    },
+    {
+      "name": "mf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mf.png"
+    },
+    {
+      "name": "mg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mg.png"
+    },
+    {
+      "name": "mh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mh.png"
+    },
+    {
+      "name": "mk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mk.png"
+    },
+    {
+      "name": "ml",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ml.png"
+    },
+    {
+      "name": "mm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mm.png"
+    },
+    {
+      "name": "mn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mn.png"
+    },
+    {
+      "name": "mo",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mo.png"
+    },
+    {
+      "name": "mp",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mp.png"
+    },
+    {
+      "name": "mq",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mq.png"
+    },
+    {
+      "name": "mr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mr.png"
+    },
+    {
+      "name": "ms",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ms.png"
+    },
+    {
+      "name": "mt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mt.png"
+    },
+    {
+      "name": "mu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mu.png"
+    },
+    {
+      "name": "mv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mv.png"
+    },
+    {
+      "name": "mw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mw.png"
+    },
+    {
+      "name": "mx",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mx.png"
+    },
+    {
+      "name": "my",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/my.png"
+    },
+    {
+      "name": "mz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/mz.png"
+    },
+    {
+      "name": "na",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/na.png"
+    },
+    {
+      "name": "nc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nc.png"
+    },
+    {
+      "name": "ne",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ne.png"
+    },
+    {
+      "name": "nf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nf.png"
+    },
+    {
+      "name": "ng",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ng.png"
+    },
+    {
+      "name": "ni",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ni.png"
+    },
+    {
+      "name": "nl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nl.png"
+    },
+    {
+      "name": "no",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/no.png"
+    },
+    {
+      "name": "np",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/np.png"
+    },
+    {
+      "name": "nr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nr.png"
+    },
+    {
+      "name": "nu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nu.png"
+    },
+    {
+      "name": "nz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/nz.png"
+    },
+    {
+      "name": "om",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/om.png"
+    },
+    {
+      "name": "pa",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pa.png"
+    },
+    {
+      "name": "pc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pc.png"
+    },
+    {
+      "name": "pe",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pe.png"
+    },
+    {
+      "name": "pf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pf.png"
+    },
+    {
+      "name": "pg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pg.png"
+    },
+    {
+      "name": "ph",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ph.png"
+    },
+    {
+      "name": "pk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pk.png"
+    },
+    {
+      "name": "pl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pl.png"
+    },
+    {
+      "name": "pm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pm.png"
+    },
+    {
+      "name": "pn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pn.png"
+    },
+    {
+      "name": "pr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pr.png"
+    },
+    {
+      "name": "ps",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ps.png"
+    },
+    {
+      "name": "pt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pt.png"
+    },
+    {
+      "name": "pw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/pw.png"
+    },
+    {
+      "name": "py",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/py.png"
+    },
+    {
+      "name": "qa",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/qa.png"
+    },
+    {
+      "name": "re",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/re.png"
+    },
+    {
+      "name": "ro",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ro.png"
+    },
+    {
+      "name": "rs",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/rs.png"
+    },
+    {
+      "name": "ru",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ru.png"
+    },
+    {
+      "name": "rw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/rw.png"
+    },
+    {
+      "name": "sa",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sa.png"
+    },
+    {
+      "name": "sb",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sb.png"
+    },
+    {
+      "name": "sc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sc.png"
+    },
+    {
+      "name": "sd",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sd.png"
+    },
+    {
+      "name": "se",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/se.png"
+    },
+    {
+      "name": "sg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sg.png"
+    },
+    {
+      "name": "sh-ac",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sh-ac.png"
+    },
+    {
+      "name": "sh-hl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sh-hl.png"
+    },
+    {
+      "name": "sh-ta",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sh-ta.png"
+    },
+    {
+      "name": "sh",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sh.png"
+    },
+    {
+      "name": "si",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/si.png"
+    },
+    {
+      "name": "sj",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sj.png"
+    },
+    {
+      "name": "sk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sk.png"
+    },
+    {
+      "name": "sl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sl.png"
+    },
+    {
+      "name": "sm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sm.png"
+    },
+    {
+      "name": "sn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sn.png"
+    },
+    {
+      "name": "so",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/so.png"
+    },
+    {
+      "name": "sr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sr.png"
+    },
+    {
+      "name": "ss",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ss.png"
+    },
+    {
+      "name": "st",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/st.png"
+    },
+    {
+      "name": "sv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sv.png"
+    },
+    {
+      "name": "sx",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sx.png"
+    },
+    {
+      "name": "sy",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sy.png"
+    },
+    {
+      "name": "sz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/sz.png"
+    },
+    {
+      "name": "tc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tc.png"
+    },
+    {
+      "name": "td",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/td.png"
+    },
+    {
+      "name": "tf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tf.png"
+    },
+    {
+      "name": "tg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tg.png"
+    },
+    {
+      "name": "th",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/th.png"
+    },
+    {
+      "name": "tj",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tj.png"
+    },
+    {
+      "name": "tk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tk.png"
+    },
+    {
+      "name": "tl",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tl.png"
+    },
+    {
+      "name": "tm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tm.png"
+    },
+    {
+      "name": "tn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tn.png"
+    },
+    {
+      "name": "to",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/to.png"
+    },
+    {
+      "name": "tr",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tr.png"
+    },
+    {
+      "name": "tt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tt.png"
+    },
+    {
+      "name": "tv",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tv.png"
+    },
+    {
+      "name": "tw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tw.png"
+    },
+    {
+      "name": "tz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/tz.png"
+    },
+    {
+      "name": "ua",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ua.png"
+    },
+    {
+      "name": "ug",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ug.png"
+    },
+    {
+      "name": "um",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/um.png"
+    },
+    {
+      "name": "un",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/un.png"
+    },
+    {
+      "name": "us",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/us.png"
+    },
+    {
+      "name": "uy",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/uy.png"
+    },
+    {
+      "name": "uz",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/uz.png"
+    },
+    {
+      "name": "va",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/va.png"
+    },
+    {
+      "name": "vc",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/vc.png"
+    },
+    {
+      "name": "ve",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ve.png"
+    },
+    {
+      "name": "vg",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/vg.png"
+    },
+    {
+      "name": "vi",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/vi.png"
+    },
+    {
+      "name": "vn",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/vn.png"
+    },
+    {
+      "name": "vu",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/vu.png"
+    },
+    {
+      "name": "wf",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/wf.png"
+    },
+    {
+      "name": "ws",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ws.png"
+    },
+    {
+      "name": "xk",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/xk.png"
+    },
+    {
+      "name": "xx",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/xx.png"
+    },
+    {
+      "name": "ye",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/ye.png"
+    },
+    {
+      "name": "yt",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/yt.png"
+    },
+    {
+      "name": "za",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/za.png"
+    },
+    {
+      "name": "zm",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/zm.png"
+    },
+    {
+      "name": "zw",
+      "url": "https://raw.githubusercontent.com/yutangbb/assets/main/flag-icons/4x3/zw.png"
+    }
+  ]
+}
