@@ -1,5 +1,5 @@
 #!name = Steam令牌获取
-#!desc = 提取手机 Steam APP 中的令牌 TOTP 密钥。\n\n安装后插件后，如已有 Steam 令牌，先移除。直接添加新的 Steam 令牌。\n\n使用条件：开启【MitM】和【脚本】。
+#!desc = 提取手机Steam令牌手机验证器的TOTP密钥。\n\n安装插件后，打开手机Steam令牌，如已有验证器，先移除。点击添加验证器后会收到插件获取成功的通知，继续完成验证后即可使用。点击通知即可自动复制并查看。\n\n前置条件：开启【MitM】和【脚本】。
 #!author = 鱼塘[https://github.com/yutangbb]
 #!homepage = https://github.com/yutangbb/assets/tree/main/Loon/plug-in
 #!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
