@@ -1,0 +1,16 @@
+#!name = Steam令牌获取
+#!desc = 提取手机Steam令牌手机验证器的TOTP密钥。\n\n安装插件后，打开手机Steam令牌，如已有验证器，先移除。点击添加验证器后会收到插件获取成功的通知，继续完成验证后即可使用。点击通知即可自动复制并查看。\n\n前置条件：开启【MitM】和【脚本】。
+#!author = 鱼塘[https://github.com/yutangbb]
+#!homepage = https://github.com/yutangbb/assets/tree/main/Loon/plug-in
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+#!system = iOS,iPadOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 工具,抓包,Steam
+#!date = 2025-10-13 05:00:00
+
+[Script]
+http-response ^https:\/\/api\.steampowered\.com\/ITwoFactorService\/AddAuthenticator\/v1 script-path=https://raw.githubusercontent.com/yutangbb/assets/main/Loon/script/steam-totp.js, requires-body=true, binary-body-mode=true, timeout=60, tag=Steam令牌获取, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+
+[MitM]
+hostname = api.steampowered.com
