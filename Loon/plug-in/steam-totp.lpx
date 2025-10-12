@@ -1,0 +1,16 @@
+#!name = Steam令牌获取
+#!desc = 提取手机 Steam APP 中的令牌 TOTP 密钥。\n\n安装后插件后，如已有 Steam 令牌，先移除。直接添加新的 Steam 令牌。\n\n使用条件：开启【MitM】和【脚本】。
+#!author = 鱼塘[https://github.com/yutangbb]
+#!homepage = https://github.com/yutangbb/assets/tree/main/Loon/plug-in
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+#!system = iOS,iPadOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 工具,抓包,Steam
+#!date = 2025-10-13 05:00:00
+
+[Script]
+http-response ^https:\/\/api\.steampowered\.com\/ITwoFactorService\/AddAuthenticator\/v1 script-path=https://raw.githubusercontent.com/yutangbb/assets/main/Loon/script/steam-totp.js, requires-body=true, binary-body-mode=true, timeout=60, tag=Steam令牌获取, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+
+[MitM]
+hostname = api.steampowered.com
