@@ -1,9 +1,7 @@
 // https://raw.githubusercontent.com/yutangbb/assets/main/Loon/script/steam-totp.js
-const key = '6b1ad0ef-d644-4cc9-b0ea-50e519752b67';
 (function () {
     console.log('\n');
     if (typeof $request === 'undefined') {
-        console.log('已保存的Steam令牌：');
     }
     else if ($request?.url.startsWith('https://api.steampowered.com/ITwoFactorService/AddAuthenticator/v1')) {
         const match = /otpauth:\/\/totp\/Steam:(.+?)\?.+?&issuer=Steam/gi.exec(bytesToString($response.body));
