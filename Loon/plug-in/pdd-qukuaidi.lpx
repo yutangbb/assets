@@ -13,8 +13,8 @@
 URL-REGEX,"^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/proxy\/api\/api\/caterham\/v3\/query\/push_express",REJECT-DICT
 
 [Rewrite]
-^https:\/\/m\.pinduoduo.net\/psnl_goods_help\.html response-body-replace-regex <body> <body><style>.subject-comp-wrap:not(:has(.express-list-item-wrap))\x20{\x20display:\x20none\x20!important;\x20}</style>
-^https:\/\/m\.pinduoduo\.net\/mdkd\/package response-body-replace-regex <body> <body><style>#goods-list-big-container,\x20.goods-list-container,\x20[class^="index_gif"]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;}</style>
+^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/psnl_goods_help\.html response-body-replace-regex <body> <body><style>.subject-comp-wrap:not(:has(.express-list-item-wrap))\x20{\x20display:\x20none\x20!important;\x20}</style>
+^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/mdkd\/package response-body-replace-regex <body> <body><style>#goods-list-big-container,\x20.goods-list-container,\x20[class^="index_gif"]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;}</style>
 
 [MitM]
 hostname = mobile.yangkeduo.com, m.pinduoduo.net
