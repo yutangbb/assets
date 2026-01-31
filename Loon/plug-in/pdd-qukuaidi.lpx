@@ -1,0 +1,20 @@
+#!name = 拼多多取快递去广告
+#!desc = 去除拼多多APP、微信小程序、微信公众号等取快递页面广告、推荐商品信息。\n\n插件要求：开启【MitM】。
+#!author = 鱼塘[https://github.com/yutangbb]
+#!homepage = https://github.com/yutangbb/assets/tree/main/Loon
+#!icon = https://cdn.jsdelivr.net/gh/yutangbb/assets@main/other-icons/png/pddqukuaidi.png
+#!system = iOS,iPadOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 去广告,拼多多,快递
+#!date = 2026-01-31 02:00:00
+
+[Rule]
+URL-REGEX,"^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/proxy\/api\/api\/caterham\/v3\/query\/push_express",REJECT-DICT
+
+[Rewrite]
+^https:\/\/m\.pinduoduo.net\/psnl_goods_help\.html response-body-replace-regex <body> <body><style>.subject-comp-wrap:not(:has(.express-list-item-wrap))\x20{\x20display:\x20none\x20!important;\x20}</style>
+^https:\/\/m\.pinduoduo\.net\/mdkd\/package response-body-replace-regex <body> <body><style>#goods-list-big-container,\x20.goods-list-container,\x20[class^="index_gif"]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;}</style>
+
+[MitM]
+hostname = mobile.yangkeduo.com, m.pinduoduo.net
