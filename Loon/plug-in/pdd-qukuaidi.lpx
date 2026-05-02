@@ -14,7 +14,7 @@ URL-REGEX,"^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/proxy\/api\/ap
 
 [Rewrite]
 ^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/psnl_goods_help\.html response-body-replace-regex <body> <body><style>.subject-comp-wrap:not(:has(.express-list-item-wrap))\x20{\x20display:\x20none\x20!important;\x20}</style>
-^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/mdkd\/package response-body-replace-regex <body> <body><style>#goods-list-big-container,\x20.goods-list-container,\x20[class^="index_gif"]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;}</style><script>Object.defineProperty(navigator,'userAgent',{get:()=>`user-agent:\x20Mozilla/5.0\x20(iPhone;\x20CPU\x20iPhone\x20OS\x2026_2\x20like\x20Mac\x20OS\x20X)\x20AppleWebKit/605.1.15\x20(KHTML,\x20like\x20Gecko)\x20Mobile/15E148\x20Model/iPhone14,4\x20phh_ios_version/7.93.0\x20phh_ios_build/202601251202\x20pversion/2917\x20am_webview_id/1204cc000`});</script>
+^https:\/\/(m\.pinduoduo\.net|mobile\.yangkeduo\.com)\/mdkd\/package response-body-replace-regex <body> <body><style>#goods-list-big-container,\x20.goods-list-container,\x20[class^="index_gif"]\x20{\x20display:\x20none\x20!important;\x20visibility:\x20hidden\x20!important;}</style>
 
 [MitM]
 hostname = mobile.yangkeduo.com, m.pinduoduo.net
