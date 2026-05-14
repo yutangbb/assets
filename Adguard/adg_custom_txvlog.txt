@@ -1,4 +1,2 @@
 txh2.txh059.com###__layout > div.app-container > div.control
 txh2.txh059.com###__layout > div.app-container > .ad-splash
-txh2.txh059.com###__layout > div.app-container > .van-dialog:has(.pop-ad)
-txh2.txh059.com###__layout > div.app-container > .van-overlay:has(+ .van-dialog:has(.pop-ad))
