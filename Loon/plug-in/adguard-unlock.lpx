@@ -1,0 +1,16 @@
+#!name = Adguard 解锁
+#!desc = 解锁。
+#!author = 鱼塘[https://github.com/yutangbb]
+#!homepage = https://github.com/yutangbb/assets/tree/main/Loon
+#!icon = https://cdn.jsdelivr.net/gh/yutangbb/assets@main/Loon/plug-in/adguard.png
+#!system = iOS,iPadOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 解锁,Adguard
+#!date = 2026-05-15 02:00:00
+^https:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt\/(.*?)
+[Rewrite]
+^https:\/\/mobile-api\.adguard\.org\/api\/.+\/ios_validate_receipt\/(.*?) mock-response-body data-type=json data="{\"products\":[{\"premium_status\":\"ACTIVE\",\"product_id\":\"com.adguard.lifetimePurchase\"}]}" status-code=200
+
+[MitM]
+hostname = mobile-api.adguard.org
