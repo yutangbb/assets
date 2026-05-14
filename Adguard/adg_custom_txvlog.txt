@@ -1,2 +1,32 @@
+! ===== 糖心 =====
+! 开屏广告
 txh2.txh059.com###__layout > div.app-container > div.control
 txh2.txh059.com###__layout > div.app-container > .ad-splash
+txh2.txh059.com###__layout > div.app-container > .van-dialog:has(.pop-ad)
+txh2.txh059.com###__layout > div.app-container > .van-overlay:has(+ .van-dialog:has(.pop-ad))
+! 尤物圈入口
+! txh2.txh059.com##div.app-container > div.bg-page > div > div.app-tabbar.van-tabbar__placeholder > div.van-tabbar.van-tabbar--fixed > div.van-tabbar-item:nth-child(3)
+! 竖屏视频简化元素：发弹幕，标签，完整版提示
+txh2.txh059.com###__layout > div.app-container > div.bg-page div.short-video-detail > div.video-info > div.info-actions > div.info > div.danmaku
+txh2.txh059.com###__layout > div.app-container > div.bg-page div.short-video-detail > div.video-info > div.info-actions > div.info > div.tags
+! txh2.txh059.com###__layout > div.app-container > div.bg-page div.short-video-detail > div.video-info > div.info-actions > div.info > div.video-tips:has(> div:contains(正在播放完整))
+! 竖屏视频广告（黑屏）
+txh2.txh059.com###__layout > div.app-container > div.bg-page div.vlog-list.vlog > div.swiper-container > div.swiper-wrapper > div.swiper-slide > div.image > a
+! APP栏
+txh2.txh059.com###__layout > div.app-container > div.bg-page div:has(> div.ad-apps)
+! 社区页导航栏
+txh2.txh059.com###__layout > div.app-container > div.bg-page div.items-row:has(+ div.filter-section)
+! 横幅广告
+txh2.txh059.com###__layout > div.app-container > div.bg-page div.my-swipe.van-swipe
+! 动态广告帖子（用户昵称关键字）
+! txh2.txh059.com###__layout > div.app-container div.bg-page div.van-list > div.post-item:has(> .user > .info > .name:contains(/【官方推荐】|约炮/))
+! 视频列表广告
+txh2.txh059.com###__layout > div.app-container div.bg-page div.video-list div.van-col.van-col--12:has(a)
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div > div.tabs.van-tabs.van-tabs--line > div.van-tabs__content > div.van-tab__pane > div.video-list > div.van-pull-refresh > div.van-pull-refresh__track > div.van-list > div.video-item-combination > div.van-row.van-row--flex > div.van-col > div.video-item.waterfall:has(a)
+! 其它
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div.drag-area:nth-child(3) > div.my-swipe.hd.van-swipe > div.van-swipe__track
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div.van-pull-refresh:first-child > div.van-pull-refresh__track > a.activity-section
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div.van-pull-refresh:first-child > div.van-pull-refresh__track > div.active-title
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div > div.tabs.van-tabs.van-tabs--line > div.van-tabs__content > div.van-tab__pane > a:nth-child(4) > div.activity
+txh2.txh059.com###__layout > div.app-container > div.bg-page > div > div.tabs.van-tabs.van-tabs--line > div.van-tabs__content > div.van-tab__pane > div.rate-section:nth-child(2)
+txh2.txh059.com###__layout > div.app-container > div:first-child > div.van-pull-refresh > div.van-pull-refresh__track > div.request-page:last-child > div.bg-page > div.van-tabs.van-tabs--line > div.van-tabs__content > div.van-tab__pane:nth-child(2) > a
