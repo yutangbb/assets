@@ -7,8 +7,8 @@ txh2.txh059.com##.my-swipe.van-swipe
 ! 首页APP栏
 txh2.txh059.com##div:-abp-has(> .ad-apps:first-child:last-child)
 ! 视频列表广告
-txh2.txh059.com##.video-item-combination .video-item.waterfall:-abp-has(a)
-txh2.txh059.com##.video-item-combination .van-col:-abp-has(> .video-item.row-2 a)
+txh2.txh059.com##.video-item-combination .video-item.waterfall:-abp-has(> .aspect-ratio > .overlay > a)
+txh2.txh059.com##.video-item-combination .van-col:-abp-has(> .video-item:first-child:last-child > .aspect-ratio > .overlay > a)
 ! 竖屏视频简化元素：发弹幕，标签，完整版提示
 txh2.txh059.com##.short-video-detail > .video-info > .info-actions > .info > .danmaku
 txh2.txh059.com##.short-video-detail > .video-info > .info-actions > .info > .tags
