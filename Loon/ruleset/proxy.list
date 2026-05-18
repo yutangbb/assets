@@ -143,6 +143,9 @@ DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,searx.space
+DOMAIN,one.one.one.one
+DOMAIN,dns.google
+IP-CIDR,1.1.1.1/32,no-resolve
 
 # 翻墙相关网站
 DOMAIN-SUFFIX,metacubex.one
@@ -154,6 +157,7 @@ DOMAIN-SUFFIX,egernapp.com
 DOMAIN-SUFFIX,egern.top
 DOMAIN-SUFFIX,v2ray.com
 DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,nthlink.com
 DOMAIN-SUFFIX,suda.moe
 DOMAIN-SUFFIX,muguacloud.top
 DOMAIN-SUFFIX,yfjc.xyz
@@ -163,8 +167,6 @@ DOMAIN-SUFFIX,mitce.net
 DOMAIN-SUFFIX,speedcat.la
 DOMAIN-SUFFIX,jiasugou.space
 DOMAIN-SUFFIX,bulianglin.com
-DOMAIN,one.one.one.one
-DOMAIN,dns.google
 
 # 成人内容
 DOMAIN-SUFFIX,phncdn.com
