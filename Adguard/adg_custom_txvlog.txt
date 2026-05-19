@@ -1,4 +1,5 @@
 ! ===== 糖心 =====
+||txh2.txh059.com/sdk/web-sdk*.js
 ! 开屏广告
 txh2.txh059.com##.app-container > .control
 txh2.txh059.com##.app-container > .ad-splash
