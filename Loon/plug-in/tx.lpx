@@ -15,6 +15,7 @@ arg2 = input,,tag=sun,desc=localStorage.sun
 
 [Rule]
 AND,((DOMAIN,txh2.txh059.com),(URL-REGEX,"^htps:\/\/txh2\.txh059\.com\/sdk\/web-sdk.*\.js")),REJECT
+AND,((DOMAIN,txh2.txh059.com),(PROTOCOL,QUIC)),REJECT
 
 [Rewrite]
 ^https:\/\/txh2\.txh059\.com\/$ header-replace Accept-Encoding identity
