@@ -1,13 +1,13 @@
 #!name = 糖心多端登录
 #!desc = 在另一台设备登录自己的账号, 提取 localStorage.fuck 和 localStorage.sun 在插件中设置。开启后刷新主页。\n\n插件要求：开启【MitM】和【脚本】。
-#!author = 鱼塘[https://github.com/yutangbb]
-#!homepage = https://github.com/yutangbb
 #!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+#!tag = 工具,糖心
+#!date = 2026-05-20
+#!homepage = https://github.com/yutangbb
+#!author = 鱼塘[https://github.com/yutangbb]
 #!system = iOS,iPadOS
 #!system_version = 15
 #!loon_version = 3.2.1(372)
-#!tag = 工具,糖心
-#!date = 2026-05-20
 
 [Argument]
 arg1 = input,,tag=fuck,desc=localStorage.fuck
@@ -17,7 +17,7 @@ arg2 = input,,tag=sun,desc=localStorage.sun
 AND,((DOMAIN,txh2.txh059.com),(URL-REGEX,"^htps:\/\/txh2\.txh059\.com\/sdk\/web-sdk.*\.js")),REJECT
 
 [Rewrite]
-^htps:\/\/txh2\.txh059\.com\/ header-replace accept-encoding gzip
+^htps:\/\/txh2\.txh059\.com\/ header-replace Accept-Encoding gzip
 
 [Script]
 http-response ^https:\/\/txh2\.txh059\.com\/$ script-path=https://raw.githubusercontent.com/yutangbb/assets/main/Loon/plug-in/tx.js, requires-body=true, binary-body-mode=false, tag=糖心多端登录, argument=[{arg1}, {arg2}]
