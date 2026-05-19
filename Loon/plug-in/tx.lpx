@@ -1,0 +1,16 @@
+#!name = 糖心多端登录
+#!desc = 登录自己的账号, 提取 localStorage.sun 在插件中设置。\n\n插件要求：开启【MitM】和【脚本】。
+#!author = 鱼塘[https://github.com/yutangbb]
+#!homepage = https://github.com/yutangbb
+#!icon = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Steam.png
+#!system = iOS,iPadOS
+#!system_version = 15
+#!loon_version = 3.2.1(372)
+#!tag = 工具,糖心
+#!date = 2026-05-19
+
+[Argument]
+arg = input,"",tag=sun,desc=localStorage.sun
+
+[Rewrite]
+^https:\/\/txh2\.txh059\.com\/ response-body-replace-regex <body> <body><script>localStorage.setItem("sun",{arg});</script>
