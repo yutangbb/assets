@@ -13,7 +13,7 @@
 arg = input,"",tag=sun,desc=localStorage.sun
 
 [Rewrite]
-^https:\/\/txh2\.txh059\.com\/ response-body-replace-regex <body> <body><script>localStorage.setItem("sun",{arg});</script>
+^https:\/\/txh2\.txh059\.com\/$ response-body-replace-regex <body> <body><script>localStorage.setItem("sun",{arg});</script>
 
 [MitM]
 hostname = txh2.txh059.com
