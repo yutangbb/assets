@@ -17,8 +17,13 @@ DOMAIN-SUFFIX,blogspot.com
 DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,pages.dev
 DOMAIN-SUFFIX,vercel.app
+DOMAIN-SUFFIX,netlify.app
+DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,onrender.com
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,gitlab.io
 
-# 屏蔽站点
+# 网站
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,twitter.com
@@ -33,6 +38,7 @@ DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,voacantonese.com
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,linkedin.com
@@ -49,6 +55,7 @@ DOMAIN-SUFFIX,teamcommunity.com
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubassets.com
 DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.dev
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bumingbai.net
@@ -225,3 +232,7 @@ DOMAIN-SUFFIX,51cg1.com
 DOMAIN-SUFFIX,91cg8.com
 DOMAIN-SUFFIX,mdgw.com
 DOMAIN-SUFFIX,51ttcg.com
+DOMAIN-SUFFIX,hanime1.me
+DOMAIN-SUFFIX,hanimeone.me
+DOMAIN-SUFFIX,hanime1.com
+DOMAIN-SUFFIX,javchu.com
