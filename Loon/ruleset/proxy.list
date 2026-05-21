@@ -1,5 +1,5 @@
 # 常规加速列表
-# 自定义需要走代理才能访问的网站，可配合 GFW 规则，主要包含：GFW屏蔽、不稳定访问、翻墙相关、涉及敏感、限制中国访问、成人内容
+# 自定义需要走代理才能访问的网站，可配合 GFW 规则，主要包含：GFW屏蔽、不稳定访问、翻墙相关、涉及敏感、限制中国访问、NSFW
 # Update: 2026-05-21
 
 # 通用顶级域
@@ -150,6 +150,8 @@ DOMAIN-SUFFIX,hk01.com
 DOMAIN-SUFFIX,circle19.org
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,searx.space
+DOMAIN-SUFFIX,coinbase.com
+DOMAIN-SUFFIX,okx.com
 DOMAIN,one.one.one.one
 DOMAIN,dns.google
 IP-CIDR,1.1.1.1/32,no-resolve
@@ -175,7 +177,7 @@ DOMAIN-SUFFIX,speedcat.la
 DOMAIN-SUFFIX,jiasugou.space
 DOMAIN-SUFFIX,bulianglin.com
 
-# 成人内容
+# NSFW
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhub.com
@@ -236,3 +238,5 @@ DOMAIN-SUFFIX,hanime1.me
 DOMAIN-SUFFIX,hanimeone.me
 DOMAIN-SUFFIX,hanime1.com
 DOMAIN-SUFFIX,javchu.com
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,javdb.com
