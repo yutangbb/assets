@@ -1,12 +1,14 @@
 # 静态资源
 # 需要走代理但为静态资源，例如图片、网页CDN资源、视频（Youtube/Tiktok）等，不限制访问来源、非Cloudflare网络，
 # 主要用于 Cloudflare 搭建的节点代理分流节省流量，对于不稳定的代理还可加速网页和视频加载。
-# Update: 2026-05-18
+# Update: 2026-05-29
 
 # Google静态资源和Youtube视频图片
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN,dl.google.com
 
 # Tiktok
 DOMAIN-SUFFIX,tiktokcdn.com

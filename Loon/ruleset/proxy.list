@@ -1,6 +1,6 @@
 # 常规加速列表
-# 自定义需要走代理才能访问的网站，可配合 GFW 规则，主要包含：GFW屏蔽、不稳定访问、翻墙相关、涉及敏感、限制中国访问、NSFW
-# Update: 2026-05-21
+# 自定义需要走代理才能访问的网站，可配合 GFW 规则，主要包含：中国大陆不稳定访问、翻墙相关、敏感、限制中国访问
+# Update: 2026-05-29
 
 # 通用顶级域
 DOMAIN-SUFFIX,org
@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,us
 DOMAIN-SUFFIX,gov
 DOMAIN-SUFFIX,porn
 DOMAIN-SUFFIX,xxx
+DOMAIN-SUFFIX,goog
 DOMAIN-SUFFIX,google
 
 # 公共二级域
@@ -23,7 +24,31 @@ DOMAIN-SUFFIX,onrender.com
 DOMAIN-SUFFIX,fly.dev
 DOMAIN-SUFFIX,gitlab.io
 
+# Google
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtubeeducation.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,dns.google
+
+# Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.dev
+
 # 网站
+DOMAIN-SUFFIX,gfw.report
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,twitter.com
@@ -34,28 +59,18 @@ DOMAIN-SUFFIX,whatsapp.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,voachinese.com
-DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,voacantonese.com
+DOMAIN-SUFFIX,voanews.com
 DOMAIN-SUFFIX,pinterest.com
-DOMAIN-SUFFIX,google.com.hk
 DOMAIN-SUFFIX,surge.sh
 DOMAIN-SUFFIX,yahoo.com
-DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,nytimes.com
 DOMAIN-SUFFIX,discord.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,steampowered.com
-DOMAIN-SUFFIX,teamcommunity.com
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,github.dev
+DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,bbc.com
 DOMAIN-SUFFIX,bumingbai.net
@@ -63,11 +78,11 @@ DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,enlacehacktivista.org
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,ebay.com
-DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,2047.one
 DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,theguardian.com
@@ -152,8 +167,8 @@ DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,searx.space
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,wise.com
 DOMAIN,one.one.one.one
-DOMAIN,dns.google
 IP-CIDR,1.1.1.1/32,no-resolve
 
 # 翻墙相关网站
