@@ -1,0 +1,3 @@
+! ===== 增强过滤器 =====
+bilibili.com###app > div.adblock-tips
+ip.sb##footer.footer > div.wwads_abp.wwads_abp_open
