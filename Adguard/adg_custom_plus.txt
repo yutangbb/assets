@@ -1,4 +1,6 @@
 ! ===== 增强过滤器 =====
 bilibili.com###app > div.adblock-tips
 ip.sb##footer.footer > div.wwads_abp.wwads_abp_open
+ping0.cc###ad_left
+ping0.cc##.xbeles:-abp-has(> a img)
 kanav.ad##div.m-footer
