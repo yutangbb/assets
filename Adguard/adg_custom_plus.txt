@@ -1,6 +1,9 @@
 ! ===== 增强过滤器 =====
+! 基于 【AdGuard 基础过滤器】和【AdGuard 移动广告过滤器】的广告过滤扩展规则，解决部分广告未过滤。
+
 bilibili.com###app > div.adblock-tips
 ip.sb##footer.footer > div.wwads_abp.wwads_abp_open
 ping0.cc###ad_left, #adgright
-ping0.cc##.xbeles:-abp-has(> a img)
+ping0.cc##.xceles:-abp-has(> a img)
+ping0.cc##div:-abp-has(> a:contains(广告))
 kanav.ad##div.m-footer
