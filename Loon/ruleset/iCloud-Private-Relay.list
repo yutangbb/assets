@@ -1,0 +1,6 @@
+# iCloud Private Relay （iCloud 专用代理）
+# Update: 2026-05-29
+
+DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mask-h2.icloud.com
+DOMAIN-SUFFIX,mask-api.icloud.com

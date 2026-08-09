@@ -1,0 +1,19 @@
+# 中国大陆加速静态内容
+# 代理加速静态内容，例如图片、静态文件、视频（Youtube/Tiktok）等，来源IP不敏感，不含 Cloudflare CDN
+# 主要用于 Cloudflare 搭建的节点代理分流节省流量，对于不稳定的代理还可加速网页和视频加载。
+# Update: 2026-08-10
+
+# Google和Youtube静态内容
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN,dl.google.com
+
+# Tiktok
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokcdn-us.com
+DOMAIN-SUFFIX,ttwstatic.com
+AND,((DOMAIN-SUFFIX,tiktok.com),(DOMAIN-KEYWORD,-webapp-prime))
+
+DOMAIN-SUFFIX,dl.sourceforge.net
