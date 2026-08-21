@@ -1,0 +1,22 @@
+# 英国 VoWiFi
+# 拉起英国运营商 VoWiFi 需要代理的列表
+# Update: 2026-08-21
+
+# O2
+IP-CIDR,87.194.0.0/16,no-resolve
+
+# Vodafone
+DOMAIN,epdg.vodafone.co.uk
+IP-CIDR,88.82.0.0/19,no-resolve
+IP-CIDR,148.252.128.0/18,no-resolve
+
+# 3
+IP-CIDR,185.153.236.0/22,no-resolve
+
+# EE
+IP-CIDR,31.94.64.0/20,no-resolve
+
+# Lebara
+IP-CIDR,84.246.112.0/22,no-resolve
+
+DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org

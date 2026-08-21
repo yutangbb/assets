@@ -1,0 +1,41 @@
+# 中国大陆直连列表
+# Update: 2026-08-11
+
+# 向日葵直连
+DOMAIN-SUFFIX,oray.com
+DOMAIN-SUFFIX,oray.net
+
+# Cloudflare WARP
+IP-CIDR,162.159.192.0/24
+IP-CIDR,162.159.193.0/24
+IP-CIDR,162.159.195.0/24
+IP-CIDR,162.159.204.0/24
+IP-CIDR,188.114.96.0/24
+IP-CIDR,188.114.97.0/24
+IP-CIDR,188.114.98.0/24
+IP-CIDR,188.114.99.0/24
+IP-CIDR,2606:4700:d0::/48
+IP-CIDR,2606:4700:d1::/48
+
+# 移动网络服务
+DOMAIN-SUFFIX,mcc460.pub.3gppnetwork.org
+
+# 无忧行
+DOMAIN-SUFFIX,jegotrip.com.cn
+
+# 抖音静态
+DOMAIN-SUFFIX,douyincdn.com
+DOMAIN-SUFFIX,douyinpic.com
+DOMAIN-SUFFIX,douyinvod.com
+DOMAIN-SUFFIX,douyinstatic.com
+DOMAIN-SUFFIX,byteimg.com
+DOMAIN-SUFFIX,bytetos.com
+DOMAIN-SUFFIX,bytescm.com
+DOMAIN-SUFFIX,bytegecko.com
+DOMAIN-SUFFIX,bytednsdoc.com
+DOMAIN-SUFFIX,ibytedapm.com
+DOMAIN-SUFFIX,iesdouyin.com
+DOMAIN,fonts.bytedance.com
+
+# CDN
+DOMAIN-SUFFIX,ctcdn.com.cn

@@ -1,6 +1,6 @@
 # 中国大陆加速列表
 # 可配合 GFW 规则，主要包含：不稳定访问、网络代理相关、敏感、限制中国访问
-# Update: 2026-08-10
+# Update: 2026-08-12
 
 # 通用顶级域
 DOMAIN-SUFFIX,org
@@ -202,6 +202,7 @@ DOMAIN-SUFFIX,mitce.net
 DOMAIN-SUFFIX,speedcat.la
 DOMAIN-SUFFIX,jiasugou.space
 DOMAIN-SUFFIX,bulianglin.com
+DOMAIN-SUFFIX,qianlink.link
 
 # NSFW
 DOMAIN-SUFFIX,rou.video
