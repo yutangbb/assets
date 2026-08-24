@@ -21,6 +21,5 @@ IP-CIDR,84.246.112.0/22,no-resolve
 
 DOMAIN-SUFFIX,mcc234.pub.3gppnetwork.org
 
-# 测试
-DOMAIN,epdg.eps.truphone.net
-IP-CIDR,194.88.242.0/23,no-resolve
+# 分流IP测试
+DOMAIN,ip-vowifi-uk.118233.xyz
