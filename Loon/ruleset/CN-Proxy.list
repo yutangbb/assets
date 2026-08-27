@@ -1,6 +1,9 @@
 # 中国大陆加速列表
 # 可配合 GFW 规则，主要包含：不稳定访问、网络代理相关、敏感、限制中国访问
-# Update: 2026-08-24
+# Update: 2026-08-27
+
+# 分流IP测试
+DOMAIN,ip-cn-proxy.118233.xyz
 
 # 通用顶级域
 DOMAIN-SUFFIX,tw

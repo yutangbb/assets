@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,kakaocdn.net
 DOMAIN-SUFFIX,gamecdn.net
 DOMAIN-SUFFIX,onkakao.net
 DOMAIN-SUFFIX,kakaocorp.com
+# 可直连
+#DOMAIN-SUFFIX,daumcdn.net
