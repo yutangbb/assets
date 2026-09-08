@@ -12,7 +12,7 @@
 #!date = 2026-09-09
 
 [Script]
-http-response ^https:\/\/mobile\.firsty\.app\/api\/mobile\/users\/v2\/.+\/info script-path=https://raw.githubusercontent.com/yutangbb/assets/main/Loon/plug-in/firsty-lpa/firsty-lpa.js, requires-body=true, binary-body-mode=false, timeout=60, tag=firsty-lpa.js, img-url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/53/5f/7d535fa5-f78a-9a66-21ae-b462069fa905/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/114x114bb.png
+http-response ^https:\/\/mobile\.firsty\.app\/api\/mobile\/users\/v2\/ao9W8VgHz7UW7gMFDyxsSx4fotM2\/info script-path=https://raw.githubusercontent.com/yutangbb/assets/main/Loon/plug-in/firsty-lpa/firsty-lpa.js, requires-body=true, binary-body-mode=false, timeout=60, tag=firsty-lpa.js, img-url=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/53/5f/7d535fa5-f78a-9a66-21ae-b462069fa905/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/114x114bb.png
 
 [MitM]
 hostname = mobile.firsty.app
