@@ -18,7 +18,15 @@ AND,((DOMAIN-SUFFIX,tiktok.com),(DOMAIN-KEYWORD,-webapp-prime))
 
 DOMAIN-SUFFIX,dl.sourceforge.net
 
+# Github
 DOMAIN,codeload.github.com
+DOMAIN,github.githubassets.com
 DOMAIN,raw.githubusercontent.com
 DOMAIN,release-assets.githubusercontent.com
 DOMAIN-WILDCARD,*.github.io
+
+# Twitch
+DOMAIN,assets.twitch.tv
+DOMAIN,static-cdn.jtvnw.net
+DOMAIN-SUFFIX,cloudfront.hls.ttvnw.net
+DOMAIN-SUFFIX,playlist.ttvnw.net
